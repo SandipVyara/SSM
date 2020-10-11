@@ -1,2 +1,2 @@
 # SSM
-MY First Project
+Assignment1 Project
